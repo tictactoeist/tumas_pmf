@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Taro",
+    "status":
+    {
+      "str": 9,
+      "dex": 9,
+      "int": 9,
+
+      "attract": 9,
+      "health": 9,
+      "int": 9
+    },
+    "subscriber": 42,
+    "follower": 5963,
+    "age": 15,
+    "sex": "male", // "female", "other"
+    "experience": 2,
+    "pa": [],
+    "aa": [],
+    "tag": [],
+  },
+  {
+    "id": 2,
+    "name": "Jiro",
+    "status":
+    {
+      "str": 9,
+      "dex": 9,
+      "int": 9,
+
+      "attract": 9,
+      "health": 9,
+      "int": 9
+    },
+    "subscriber": 42,
+    "follower": 5963,
+    "age": 15,
+    "sex": "male", // "female", "other"
+    "experience": 2,
+    "pa": [],
+    "aa": [],
+    "tag": [],
+  },
+  {
+    "id": 3,
+    "name": "Saburo",
+    "status":
+    {
+      "str": 9,
+      "dex": 9,
+      "int": 9,
+
+      "attract": 9,
+      "health": 9,
+      "int": 9
+    },
+    "subscriber": 42,
+    "follower": 5963,
+    "age": 15,
+    "sex": "male", // "female", "other"
+    "experience": 2,
+    "pa": [],
+    "aa": [],
+    "tag": [],
+  },
+  {
+    "id": 4,
+    "name": "Shiro",
+    "status":
+    {
+      "str": 9,
+      "dex": 9,
+      "int": 9,
+
+      "attract": 9,
+      "health": 9,
+      "int": 9
+    },
+    "subscriber": 42,
+    "follower": 5963,
+    "age": 15,
+    "sex": "male", // "female", "other"
+    "experience": 2,
+    "pa": [],
+    "aa": [],
+    "tag": [],
+  },
+  {
+    "id": 5,
+    "name": "Goro",
+    "status":
+    {
+      "str": 9,
+      "dex": 9,
+      "int": 9,
+
+      "attract": 9,
+      "health": 9,
+      "int": 9
+    },
+    "subscriber": 42,
+    "follower": 5963,
+    "age": 15,
+    "sex": "male", // "female", "other"
+    "experience": 2,
+    "pa": [],
+    "aa": [],
+    "tag": [],
+  }
+];

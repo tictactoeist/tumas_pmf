@@ -6,9 +6,9 @@
       :key="n"
       cols="4"
       >
-      <v-card height="200">
-        <img src="../assets/tuber.png">
-        <CThree/>
+      <v-card height="200" style="z-align: 97;">
+        <img src="../assets/tuber.png" style="z-align: 99;">
+        <CThree style="z-align: 98;"/>
       </v-card>
     </v-col>
   </v-row>

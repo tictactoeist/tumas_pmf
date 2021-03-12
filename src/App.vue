@@ -37,11 +37,10 @@
       </v-btn>
     </v-app-bar>
 
-
-
     <v-main>
       <HelloWorld/>
       <Grid/>
+      <ChatBoard/>
     </v-main>
   </v-app>
 </template>
@@ -49,13 +48,15 @@
 <script>
 import HelloWorld from './components/HelloWorld';
 import Grid from './components/Grid';
+import ChatBoard from './components/ChatBoard';
 
 export default {
   name: 'App',
 
   components: {
-    HelloWorld,
-    Grid,
+      HelloWorld,
+      Grid,
+      ChatBoard,
   },
   data: () => ({
     //

@@ -2,6 +2,9 @@
 node_modules
 /dist
 
+# backup
+*bak
+
 #
 ./secure.js
 
